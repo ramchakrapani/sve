@@ -20,7 +20,7 @@ export default function app(){
   <Route path ="Categories" element={<Categories/>}/>
   <Route path ="Services" element={<Services/>}/>
   <Route path ="Clients" element={<Clients/>}/>
-  <Route path ="Contact us" element={<Contactus/>}/>
+  <Route path ="Contactus" element={<Contactus/>}/>
   </Routes>
  </BrowserRouter>
  <Copycomponents/>

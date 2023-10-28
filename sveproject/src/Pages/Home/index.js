@@ -34,7 +34,7 @@ const actionButtonStyle = {
                         >Welcome to Sri Venkateswara Enterprises
                         </Typography>
                         <Typography variant="h6" color="lightcyan" fontFamily="raleway">We offer a wide range of Products & Services for all your Business Needs</Typography>
-                        <NavLink to="/ContactUs">
+                        <NavLink to="/Contact Us">
                         <Button variant="contained" color="success" style={actionButtonStyle}>
                         
                             Contact Us
